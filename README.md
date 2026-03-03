@@ -25,7 +25,14 @@ With experience spanning multiple languages, frameworks, and paradigms, I enjoy 
 ![OOP](https://img.shields.io/badge/OOP-FF6F00?style=for-the-badge&logo=dev.to&logoColor=white)
 ![MVC](https://img.shields.io/badge/MVC-8B0000?style=for-the-badge&logo=dev.to&logoColor=white)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SuperHydroMan/SuperHydroMan/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/SuperHydroMan/SuperHydroMan/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/SuperHydroMan/SuperHydroMan/blob/output/github-contribution-grid-snake.svg" />
+</picture>
+
 ---
+
 
 ## 🚀 What I Do
 
