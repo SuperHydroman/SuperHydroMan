@@ -33,7 +33,8 @@ With experience spanning multiple languages, frameworks, and paradigms, I enjoy 
 
 ## 🤝 Let's Connect
 
-I'm always open for having a good conversation about code. Feel free to explore my repositories, open an issue, or reach out on my [LinkedIn](https://linkedin.com/in/gideon-van-den-herik/)!
+I'm always open for having a good conversation about code. \
+Feel free to explore my repositories, open an issue, or reach out on my [LinkedIn](https://linkedin.com/in/gideon-van-den-herik/)!
 
 > *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*
 > — Martin Fowler
