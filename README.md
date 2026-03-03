@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=C0C0C0&center=true&vCenter=true&width=1000&lines=Fullstack+Developer;PHP+%7C+Laravel+%7C+Statamic+%7C+C%23+%7C+JavaScript+%7C+CSS+%7C+Wordpress;Building+clean+%26+scalable+software;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=C0C0C0&center=true&vCenter=true&width=1000&lines=Fullstack+Developer;PHP+%7C+Laravel+%7C+Statamic+%7C+Java+%7C+C%23+%7C+JavaScript+%7C+CSS+%7C+Wordpress;Building+clean+%26+scalable+software;" alt="Typing SVG" />
 </p>
 
 I'm a passionate **Full-Stack Developer** with a love for crafting clean, scalable, and maintainable software. Whether it's building robust back-end systems, designing elegant front-end interfaces, or diving deep into game scripting. I thrive on turning ideas into reality through code.
